@@ -4,10 +4,6 @@ labels:
   - T-enhancement
   - S-needs-triage
 body:
-  - type: markdown
-    attributes:
-      value: >-
-        ## Instructions (read me before you open an issue!)
   - type: textarea
     id: is_problem
     attributes:
