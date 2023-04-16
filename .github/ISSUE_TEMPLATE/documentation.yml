@@ -1,5 +1,6 @@
 name: Documentation
 description: Issues and suggestions for the documentation
+title: "[Documentation]: "
 labels:
   - T-enhancement
   - T-documentation
